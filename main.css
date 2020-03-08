@@ -6,16 +6,25 @@
     display: inline-block;
     background-color: bisque;
     border: 1px solid gray;
+    font-family: 'Roboto', sans-serif;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
 }
 
 
 #content {
     background-color: burlywood;
+    font-family: 'Roboto', sans-serif;
+    height: 200px;
+    padding: 20px;
 }
 
 .container {
     max-width: 1000px;
     display:inline-block;
+    width: 100%;
+    padding: 100px;
 }
 
 .outer_container {
