@@ -1,9 +1,34 @@
 #tabs {
-    display: block;
+
 }
 
 #tabs div {
     display: inline-block;
     background-color: bisque;
     border: 1px solid gray;
+}
+
+
+#content {
+    background-color: burlywood;
+}
+
+.container {
+    max-width: 1000px;
+    display:inline-block;
+}
+
+.outer_container {
+    text-align: center;
+}
+
+#hero {
+    width:100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+body{
+    padding:0;
+    margin:0;
 }
