@@ -1,0 +1,9 @@
+#tabs {
+    display: block;
+}
+
+#tabs div {
+    display: inline-block;
+    background-color: bisque;
+    border: 1px solid gray;
+}
